@@ -16,7 +16,7 @@
 Access themes directly through the links:
 
 - [Dracula](https://themes.ray.so?version=1&name=Dracula&author=Lucas%20de%20Fran%C3%A7a&authorUsername=luxonauta&colors=%23282A36,%23282A36,%23F8F8F2,%23BD93F9,%23BD93F9,%23FF5555,%23FFB86C,%23F1FA8C,%2350FA7B,%238BE9FD,%23BD93F9,%23FF79C6&appearance=dark&addToRaycast);
-- [Alucard](https://themes.ray.so?version=1&name=Dracula%20Theme%20-%20Alucard&author=Lucas%20de%20Fran%C3%A7a&authorUsername=luxonauta&colors=%23F5F5F5,%23F5F5F5,%231F1F1F,%23635D97,%23CFCFDE,%23CB5A2A,%23A34D14,%23846E15,%2314710A,%23036A96,%23644AC9,%23A3144D&appearance=light&addToRaycast).
+- [Alucard](https://themes.ray.so?version=1&name=Alucard&author=Lucas%20de%20Fran%C3%A7a&authorUsername=luxonauta&colors=%23FFFBEB,%23FFFBEB,%231F1F1F,%23CFCFDE,%236C664B,%23CB5A2A,%23A34D14,%23846E15,%2314710A,%23036A96,%23644AC9,%23A3144D&appearance=light&addToRaycast).
 
 #### Manual Installation
 
